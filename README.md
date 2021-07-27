@@ -7,3 +7,4 @@
   <li> baekjun Problem</li>
 </ul>
 <a href="https://www.notion.so/elice/CS50-b-2973ae4f229445c68db11610c2c001fe">CS50</a>
+<a href ="https://github.com/CS50-study-b">githup</a>
